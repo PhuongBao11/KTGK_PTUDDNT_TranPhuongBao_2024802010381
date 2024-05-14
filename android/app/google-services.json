@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19048783325",
+    "project_id": "kiemtragiuaky-2d6d2",
+    "storage_bucket": "kiemtragiuaky-2d6d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19048783325:android:5e831e81c11472ccfb6a34",
+        "android_client_info": {
+          "package_name": "com.ktgk_ptuhdnt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAeQc_UaQHzrNoA4O3Q-j7bw-hmFxmK0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
